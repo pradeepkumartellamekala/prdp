@@ -12,3 +12,7 @@ opened 'pradeep' user in chrome
 .
 .
 opened youtube in 'pradeep' user
+.
+.
+.
+searched for git tutorials
